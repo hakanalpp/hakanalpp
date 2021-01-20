@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Hakan -->
+## 👋 &nbsp;Hey there! I'm Hakan
 
 ### 👨🏻‍💻 &nbsp;About Me
 
