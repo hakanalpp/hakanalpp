@@ -2,13 +2,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Engineering at Izmir Institute of Technology.\
-🧑‍💻 &nbsp;I'm currently a Frontend developer in Prighter located in Austria/Vienna.\
-🌱 &nbsp;I'm on track for learning more about Visual computing on my free times.\
-💬 &nbsp;Feel free to reach out to me for anything, maybe for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at hakana926@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://hakanalp.dev/) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;I'm currently studying Computer Engineering at Izmir Institute of Technology.
+
+🧑‍💻 &nbsp;I'm currently a Frontend developer in Prighter located in Austria/Vienna.
+
+🌱 &nbsp;I'm on track for learning more about Visual computing on my free times.
+
+💬 &nbsp;Feel free to reach out to me for anything, maybe for some interesting discussion.
+
+📄 &nbsp;Please have a look at my [Portfolio](https://hakanalp.dev/) for more details about me. I'm open to any feedback or suggestion!
 
 ### 🛠 &nbsp;Tech Stack
 
