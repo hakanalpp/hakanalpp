@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Computer Engineering at Izmir Institute of Technology.
+🎓 &nbsp;I'm currently doing a master's degree in Computer Science at the Technical University of Munich.
 
-🧑‍💻 &nbsp;I'm currently a Frontend developer in Prighter located in Austria/Vienna.
+🧑‍💻 &nbsp;I'm currently a Full Stack developer in Prighter located in Austria/Vienna.
 
 🌱 &nbsp;I'm on track for learning more about Visual computing on my free times.
 
